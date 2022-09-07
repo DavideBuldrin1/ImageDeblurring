@@ -1,1 +1,1 @@
-Deblurring Neural netwowk based on Unet
+Deblurring Neural netwowk based on Unet. All the information need are in the NOtebook
